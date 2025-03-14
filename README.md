@@ -1,4 +1,4 @@
-## Hi there 👋
+## 대구과학고등학교 1학년 2반 3번 김승헌
 
 <!--
 **ksh2396/ksh2396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
